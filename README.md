@@ -1,1 +1,2 @@
 # QRCodeGenerator
+This is my first project using HTML , CSS , JavaScript & Jquery . Nowadays it's really hard to get any AD-Free source which will give us  QR Code without charging a single penny. So I have come up with the solution to this problem . For this project, we are gonna use a very nice, powerful, easy to use Javascript library called qrcode.js built by @davidshimjs. I hope it will be helpful for you .
